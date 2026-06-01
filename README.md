@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
 
+[![Trofea](https://github-profile-trophy.vercel.app/?username=aszczi&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
