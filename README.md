@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 ### Moje technologie:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,git&theme=dark)](https://skillicons.dev)
 
+![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
 </picture>
 
-![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
 
