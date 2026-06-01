@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aszczi&layout=compact&hide=SWIG&theme=dark)
+![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
 
