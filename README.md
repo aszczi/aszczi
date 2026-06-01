@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
+
 ### Moje technologie:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,git&theme=dark)](https://skillicons.dev)
 
-![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/joanna-szewczyk-23b558354/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-szewczyk-23b558354)
 
 ![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
 
