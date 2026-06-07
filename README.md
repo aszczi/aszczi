@@ -4,15 +4,21 @@
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
 🌱 Dedicated to continuous learning and mastering new development tools.
 
-### 💻 Języki Programowania
+### 💻 Proramming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### 🛠 Narzędzia i Środowisko Pracy
+### 🛠 Tools and Work Environment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
+</picture>
 
 <!--
 ![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
@@ -25,12 +31,4 @@
 
 ![Licznik odwiedzin](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=Odwiedziny+profilu)
 -->
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
-</picture>
-
 
