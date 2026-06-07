@@ -1,7 +1,7 @@
 ## Hi there 👋
 # About Me
-🎓 Studying Applied Computer Science at Jagiellonian University and Cybersecurity at University of the National Education Commission.
-💻 Passionate about Java, automations, algorithms and problem solving.
+🎓 Studying Applied Computer Science at Jagiellonian University and Cybersecurity at University of the National Education Commission. <br>
+💻 Passionate about Java, automations, algorithms and problem solving. <br>
 🌱 Dedicated to continuous learning and mastering new development tools.
 
 ### 💻 Języki Programowania
