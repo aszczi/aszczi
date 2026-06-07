@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
 </p>
 
-[![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
+![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
 
 <!--
 ### Moje technologie:
