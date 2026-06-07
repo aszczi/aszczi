@@ -1,5 +1,5 @@
 ## Hi there 👋
-# About Me
+### About Me
 🎓 Studying Applied Computer Science at Jagiellonian University and Cybersecurity at University of the National Education Commission. <br>
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
 🌱 Dedicated to continuous learning and mastering new development tools.
@@ -14,9 +14,10 @@
   <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
 </p>
 
+<!--
 ![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
 
-<!--
+
 ### Moje technologie:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,git&theme=dark)](https://skillicons.dev)
 
