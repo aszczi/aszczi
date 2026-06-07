@@ -4,18 +4,15 @@
 💻 Passionate about Java, automations, algorithms and problem solving.
 🌱 Dedicated to continuous learning and mastering new development tools.
 
-# Języki Programowania
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Języki Programowania
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
 
-# Narzędzia i Środowisko Pracy
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+### 🛠 Narzędzia i Środowisko Pracy
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
+</p>
 ![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
 
 <!--
