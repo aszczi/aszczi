@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=git,linux,github,mysql" />
 </p>
 
+![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aszczi/aszczi/output/github-snake.svg">
@@ -21,8 +23,6 @@
 </picture>
 
 <!--
-![Języki programowania](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aszczi&theme=dark)
-
 
 ### Moje technologie:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,git&theme=dark)](https://skillicons.dev)
