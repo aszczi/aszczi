@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=aszczi&color=blue&style=flat-square&label=PROFILE+VIEWS)
+Welcome to my github profile! <br>
 ### About Me
 🎓 Studying Applied Computer Science at Jagiellonian University and Cybersecurity at University of the National Education Commission. <br>
 💻 Passionate about Java, automations, algorithms and problem solving. <br>
